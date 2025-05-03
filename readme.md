@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sohan Chidrawar</h1>
 <h3 align="center">Ambitious and motivated professional with a strong foundation in Python programming, back-end development, and a keen interest in the field of Cybersecurity. Driven to channel technical knowledge and skills towards personal and professional growth while contributing effectively to innovative projects within a dynamic organization. Aspiring to become a successful expert in Information Technology and Cybersecurity by leveraging expertise to ensure impactful outcomes and organizational success.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sohanchidrawar&label=Profile%20views&color=0e75b6&style=flat" alt="sohanchidrawar" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/SohanChidrawar?tab=repositories](https://github.com/SohanChidrawar?tab=repositories)
 
